@@ -1,1 +1,2 @@
-"# blog" 
+# blog
+301 redirect
